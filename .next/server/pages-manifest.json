@@ -3,6 +3,10 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/tasks/task_list": "pages/tasks/task_list.js",
+  "/home": "pages/home.js",
+  "/api/get_todos": "pages/api/get_todos.js",
   "/tasks/task_calendar": "pages/tasks/task_calendar.js",
-  "/api/get_todos": "pages/api/get_todos.js"
+  "/api/add_task": "pages/api/add_task.js",
+  "/api/get_todos_calendar": "pages/api/get_todos_calendar.js",
+  "/api/delete_task": "pages/api/delete_task.js"
 }
